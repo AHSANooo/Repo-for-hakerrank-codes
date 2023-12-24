@@ -1,6 +1,3 @@
-/*Name : Muhammad Ahsan
-Roll no. : 23I-0553
-section : E*/
 #include <iostream>
 
 using namespace std;
