@@ -17,7 +17,7 @@ void swapArrays(int arr1[], int size1, int arr2[], int size2) {
             arr2[i] = arr1[i];
         }
     }
-    // If size2 is greater than size1, move the remaining elements from arr2 to arr1
+    // If size2 is greater than size1, move the remaining elements from array 1 to array 2
     else if (size2 > size1) {
         for (int i = minSize; i < size2; i++) {
             arr1[i] = arr2[i];
