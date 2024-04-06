@@ -1,12 +1,12 @@
-/*Name : Muhammad Ahsan
-Roll no. : 23I-0553
-Section : E*/
 #include<iostream>
 
 using namespace std;
 int main(){
 
 const	int rows=3 , clms=2;
+
+
+	//uncomment to input rows and columns
 	/*cout<<"Enter the number of rows : ";
 	cin>>rows;
 	cout<<"Enter the number of columns : ";
